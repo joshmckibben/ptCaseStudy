@@ -2,13 +2,13 @@
 /* coded by: Josh McKibben */
 
 body { background-color: #FFFFFF; 
-       background-image: url(ptrbackground.jpg); 
+       background-image: url(images/ptrbackground.jpg); 
        color: #666666; 
        font-family: Verdana, Arial, sans-serif; 
 }
 
 h1 { background-color: #000033; 
-     background-image: url(sunset.jpg); 
+     background-image: url(images/sunset.jpg); 
      background-position: right; 
      background-repeat: no-repeat; 
      padding-left: 20px; 
